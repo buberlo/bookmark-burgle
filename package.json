@@ -1,0 +1,28 @@
+{
+  "name": "bookmark-heist-detective-board",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-first Next.js detective board that turns bookmarks into suspect cards, runs nightly heist simulations, sets bait traps, and recovers stolen pages with metadata clue puzzles.",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "heist:nightly": "node scripts/heist-nightly.mjs",
+    "heist:once": "node scripts/heist-nightly.mjs --once",
+    "clean": "rm -rf .next"
+  },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}
