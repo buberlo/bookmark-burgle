@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bm-001",
+    "title": "Design Systems Handbook",
+    "url": "https://designsystems.dev/handbook",
+    "domain": "designsystems.dev",
+    "savedAt": "2024-02-12T09:15:00Z",
+    "lastVisitedAt": "2025-05-28T16:40:00Z",
+    "visits": 42,
+    "tags": ["work", "design", "reference"],
+    "keywords": ["tokens", "components", "a11y"],
+    "notes": "Core component patterns and accessibility rules.",
+    "excerpt": "A practical guide to maintaining a shared design system."
+  },
+  {
+    "id": "bm-002",
+    "title": "Postgres Vacuum Tuning",
+    "url": "https://postgres.tuning.io/vacuum",
+    "domain": "postgres.tuning.io",
+    "savedAt": "2023-11-03T14:05:00Z",
+    "lastVisitedAt": "2024-12-19T20:12:00Z",
+    "visits": 17,
+    "tags": ["research", "database", "performance"],
+    "keywords": ["vacuum", "autovacuum", "bloat"],
+    "notes": "Checklist for reducing table bloat on busy tables.",
+    "excerpt": "Tuning vacuum settings to keep analytics tables healthy."
+  },
+  {
+    "id": "bm-003",
+    "title": "Quarterly Budget Spreadsheet",
+    "url": "https://finance.local/budget/q2",
+    "domain": "finance.local",
+    "savedAt": "2025-01-08T08:30:00Z",
+    "lastVisitedAt": "2025-06-01T11:25:00Z",
+    "visits": 88,
+    "tags": ["work", "finance", "important"],
+    "keywords": ["forecast", "expenses", "quarterly"],
+    "notes": "Do not share outside the finance channel.",
+    "excerpt": "Rolling budget model with owner and approval fields."
+  },
+  {
+    "id": "bm-004",
+    "title": "Old Recipe: Sourdough",
+    "url": "https://recipes.example/sourdough",
+    "domain": "recipes.example",
+    "savedAt": "2022-07-19T18:45:00Z",
+    "lastVisitedAt": "2023-09-14T12:10:00Z",
+    "visits": 6,
+    "tags": ["personal", "food"],
+    "keywords": ["bread", "starter", "hydration"],
+    "notes": "Needs a shorter proof in humid weather.",
+    "excerpt": "A forgiving sourdough recipe with hydration notes."
